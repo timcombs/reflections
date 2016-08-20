@@ -26,5 +26,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+  The two branches are merged together into one path. What is fascinating is how it takes the commits and interleaves them into order by time stamp. Using git show makes it easy to see the changes between parent and child commits. We represent it in the diagram as coming together for this reason.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
