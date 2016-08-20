@@ -21,6 +21,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+  Diagrams of the branch structure really show the pathways through the changes, you can see the nodes the branches break from and what changes that are impossible to get back to.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
