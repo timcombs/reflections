@@ -12,10 +12,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-  To commit each logical change only add files to the staging area that reflect that logical change. 
+  To commit each logical change only add files to the staging area that reflect that logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+  Branches are helpful in keeping history organized by providing logical paths to follow down that might not be workable code. Every branches' development is separate from each other, though they may have a comfortable starting point. I have an art project I am working on that could have been more easily done using branches now that I think about it.
 
 How do the diagrams help you visualize the branch structure?
 
